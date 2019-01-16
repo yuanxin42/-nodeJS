@@ -8,6 +8,8 @@
 - views: 存放模板文件
 - index.js: 程序主文件
 - package.json: 存储项目名、描述、作者、依赖等等信息
+- middlewares 权限相关
+- config 配置相关
 
 # 技术栈
 - express: web 框架
