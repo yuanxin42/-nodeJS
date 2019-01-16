@@ -1,7 +1,7 @@
 # -nodeJS
 一起学习nodeJS实战 nodeJS+Express+ejs
 
-** 目录结构 **
+# 目录结构
 - models: 存放操作数据库的文件
 - public: 存放静态文件，如样式、图片等
 - routes: 存放路由文件
